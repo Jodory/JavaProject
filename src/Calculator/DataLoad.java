@@ -1,5 +1,5 @@
 package Calculator;
 
-public class DataLoad {
+abstract public class DataLoad {
 
 }
